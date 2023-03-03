@@ -4,7 +4,7 @@
 
 ##### 🌠 I am an aspiring Front End Developer. I came from Ukraine, and now I am living in Poland, Cracow. 
 ##### 🌠 I am very passionate about frontend development and web design.
-#####  🌠 I am looking for new opportunities to improve my soft and tech skills.
+##### 🌠 I am looking for new opportunities to improve my soft and tech skills.
 
 
 ## 💫 My skills
